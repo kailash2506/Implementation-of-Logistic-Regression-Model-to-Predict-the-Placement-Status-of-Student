@@ -60,14 +60,6 @@ lr.predict([[1, 80, 1, 90, 1, 1, 90, 1, 0, 85, 1, 85]])
 ### Placement Data
 ![alt text](<EX 05 PD.png>)
 
-
-
-
-
-
-### Checking the null() function
-![alt text](<EX 05 Cn.png>)
-
 ### Print Data:
 ![alt text](<EX 05 print data.png>)
 
@@ -82,6 +74,9 @@ lr.predict([[1, 80, 1, 90, 1, 1, 90, 1, 0, 85, 1, 85]])
 
 ### Classification 
 ![alt text](<EXP 05 CR.png>)
+
+### Checking the null() function
+![alt text](<EX 05 Cn.png>)
 
 ### Prediction of LR
 ![alt text](<EXP 05 LR.png>)
