@@ -62,6 +62,9 @@ lr.predict([[1, 80, 1, 90, 1, 1, 90, 1, 0, 85, 1, 85]])
 ## Output:
 ### Placement Data
 ![alt text](<EX 05 PD.png>)
+
+
+
 ### Checking the null() function
 ![alt text](<EX 05 Cn.png>)
 
